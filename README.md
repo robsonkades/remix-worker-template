@@ -1,4 +1,4 @@
-# remix-worker-template
+# remix-worker-template-demo
 
 > The current starter template is based on Remix 1.5.1
 
